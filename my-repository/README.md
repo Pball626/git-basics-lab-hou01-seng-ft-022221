@@ -1,1 +1,1 @@
-my_new_directory $ git remote add origin <your-copied-remote-repository-URL>
+--
